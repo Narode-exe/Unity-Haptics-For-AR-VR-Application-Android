@@ -13,6 +13,7 @@ Interhaptics is a French startup that provides haptic solution software for AR/V
 4. Press **Off** to pause the Haptic Pattern.
 
 ### GIFs and Video:
+![4u6cdg](https://user-images.githubusercontent.com/77329786/104852952-a3193e00-5923-11eb-8ad3-756422167808.gif)
 
 [Video demo link for the application](https://drive.google.com/file/d/1mfOmzVSZvlRcIY68LWbMLHcOsSfX55NQ/view?usp=drivesdk
 )
